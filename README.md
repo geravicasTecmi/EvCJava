@@ -16,10 +16,10 @@
 - Si los archivos no existen en la ubicación especificada /src/db el sistema generará automáticamente NUEVOS archivos vacíos.
 
 # Créditos
-Gerardo Avilés Castillo 2920419.
-María Fernanda Rodríguez Sánchez 2915568.
-Universidad Tecmilenio campus Querétaro.
+Gerardo Avilés Castillo 2920419. <br>
+María Fernanda Rodríguez Sánchez 2915568. <br>
+Universidad Tecmilenio campus Querétaro.<br>
 
 # Licencia
-Gratis para uso personal.
+Gratis para uso personal.<br>
 Gratis para uso de pequeñas y medianas empresas.
